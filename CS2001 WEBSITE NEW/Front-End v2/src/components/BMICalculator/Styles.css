@@ -1,0 +1,32 @@
+.bmiCalculator .card {
+    background-color: #f7f7fa;
+    border-radius: 12px;
+}
+
+.bmiCalculator .card-calculator {
+    background-color: #FFF;
+    border-radius: 12px;
+}
+
+.units-text {
+    border-left: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+label {
+    font-size: 14px;
+}
+
+.bmiResult {
+    animation: pulse 1400ms infinite;
+}
+
+@keyframes pulse {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

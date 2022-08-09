@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Bar Chart</title>
+    <link rel="stylesheet" href="barChartStyle.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" charset="utf-8"></script>
+  </head>
+  <body>
+
+    <div class="border">
+      <!-- setting the y-axis of chart -->
+      <ul class="x-axis">
+        <li><span>100%</span></li>
+        <li><span>75%</span></li>
+        <li><span>50%</span></li>
+        <li><span>25%</span></li>
+        <li><span>0%</span></li>
+      </ul>
+      <!-- assigning values to each bars -->
+      <ul class="bars">
+        <li><div class="bar" data-percentage="50"></div><span>Jan</span></li>
+        <li><div class="bar" data-percentage="30"></div><span>Feb</span></li>
+        <li><div class="bar" data-percentage="60"></div><span>Mar</span></li>
+        <li><div class="bar" data-percentage="100"></div><span>Apr</span></li>
+        <li><div class="bar" data-percentage="80"></div><span>May</span></li>
+        <li><div class="bar" data-percentage="50"></div><span>Jun</span></li>
+        <li><div class="bar" data-percentage="30"></div><span>Jul</span></li>
+        <li><div class="bar" data-percentage="60"></div><span>Aug</span></li>
+        <li><div class="bar" data-percentage="100"></div><span>Sep</span></li>
+        <li><div class="bar" data-percentage="80"></div><span>Oct</span></li>
+        <li><div class="bar" data-percentage="100"></div><span>Nov</span></li>
+        <li><div class="bar" data-percentage="80"></div><span>Dec</span></li>
+      </ul>
+    </div>
+
+    <script type="text/javascript">
+    $(function(){
+      $('.bars li .bar').each(function(key, bar){
+        var percentage = $(this).data('percentage');
+        $(this).animate({
+          'height' : percentage + '%'},1500);
+      });
+    });
+    </script>
+
+  </body>
+</html>
+      

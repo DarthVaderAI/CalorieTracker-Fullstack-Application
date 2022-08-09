@@ -1,0 +1,157 @@
+{
+  "Header": {
+    "title": "CaloriePal",
+    "paragraph": "We are here to help you track calories, help you plan your adventurous and bumpy journeys and help you share your results and progress with others."
+  },
+  "About": {
+    "paragraph": "We are an eclectic mix of university students with various and unique skills brought together by a love of nutrition and wellfare. We believe full spectrum nutrition is the best way to understand your diet’s effect on your health and that everyone should be empowered to make informed and important decisions through accurate access and comprehensive data.",
+    "paragraph1": "At CaloriePal, we focus on making sure you can log your meals as quickly and easily as possible, because the easier we make it for you, the more likely you are to stay on track, and therefore a higher success in your goals and aspirations.",
+    "paragraph2": "Our goal is to build the best possible software with our own individual expertise for people to manage their nutrition and training. And on top of that, we have the passion to make that happen; amazing data paired with an awesome customer support and some unique features truly is the CaloriePal way.",
+    "Why": [
+      "Keeping a food diary helps you understand your habits and increases your likelihood of hitting your goals;",
+      "Be confident that the food you log has the correct nutrition data. We verify every food submission for accuracy;",
+      "Log your meals and track all your macro and micronutrients;",
+      "Learn how nutrients and biometrics correlate over time;"
+    ],
+    "Why2": [
+        "Whether you’re Keto, Vegan, or on one recommended by your doctor, your diet is supported here;",
+        "Monitor your daily progress, check your weight loss forecast, and receive ongoing advice and feedback. Learn more about nutrients in your diet and make better choices;",
+        "Join the community to get tips and inspiration from other users on our forums;",
+        "We take the security of our users' accounts seriously - we will never sell your account data to third parties;"
+    ]
+  },
+  "Diet": [
+    {
+      "title": "Strawberry smoothie",
+      "largeImage": "img/portfolio/straw.jpeg",
+      "smallImage": "img/portfolio/straw.jpeg"
+    },
+    {
+      "title": "Oats and raisins",
+      "largeImage": "img/portfolio/oat&raisins.jpeg",
+      "smallImage": "img/portfolio/oat&raisins.jpeg"
+    },
+    {
+      "title": "Popcorn",
+      "largeImage": "img/portfolio/popcorn.jpeg",
+      "smallImage": "img/portfolio/popcorn.jpeg"
+    },
+    {
+      "title": "Mixed nuts",
+      "largeImage": "img/portfolio/mixednuts.jpeg",
+      "smallImage": "img/portfolio/mixednuts.jpeg"
+    },
+    {
+      "title": "Salmon fillets",
+      "largeImage": "img/portfolio/salmon.jpeg",
+      "smallImage": "img/portfolio/salmon.jpeg"
+    },
+    {
+      "title": "Egg white omelette",
+      "largeImage": "img/portfolio/eggwhite.jpeg",
+      "smallImage": "img/portfolio/eggwhite.jpeg"
+    },
+    {
+      "title": "Sweet potato",
+      "largeImage": "img/portfolio/sweetpotato.jpeg",
+      "smallImage": "img/portfolio/sweetpotato.jpeg"
+    },
+    {
+      "title": "Kiwi",
+      "largeImage": "img/portfolio/kiwi.jpg",
+      "smallImage": "img/portfolio/kiwi.jpg"
+    },
+    {
+      "title": "Quiche",
+      "largeImage": "img/portfolio/quiche.jpeg",
+      "smallImage": "img/portfolio/quiche.jpeg"
+    },
+    {
+      "title": "Fruit salad",
+      "largeImage": "img/portfolio/fruitsalad.jpeg",
+      "smallImage": "img/portfolio/fruitsalad.jpeg"
+    },
+    {
+      "title": "Steamed Veggies",
+      "largeImage": "img/portfolio/steamedveggies.jpg",
+      "smallImage": "img/portfolio/steamedveggies.jpg"
+    },
+    {
+      "title": "Kale Salad",
+      "largeImage": "img/portfolio/kalesalad.jpg",
+      "smallImage": "img/portfolio/kalesalad.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-calculator",
+      "name": "Calorie Tracker",
+      "text": "Track calories from many different types of food (database constantly expanding)"
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "name": "Track Progress",
+      "text": "Track progress visually through graphs/ charts"
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Community Forum",
+      "text": "Add friends and share dietary plans with each other on forums"
+    },
+    {
+      "icon": "fa fa-plus",
+      "name": "Add To Food Database",
+      "text": "Anyone can add to the database if a food item is missing"
+    },
+    {
+      "icon": "fa fa-cutlery",
+      "name": "Food Recommendation",
+      "text": "Users will be recommended foods based on how much calories they would like."
+    },
+    {
+      "icon": "fa fa-pencil",
+      "name": "Body Measurements",
+      "text": "Measure and track body measurements"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"This app is by far the best one out there! I recently started on a 1000 calorie diet ( doctors orders) and I tried many different calorie counting apps. By far this one has been The Best! It has many kinds of foods already logged, and when you need to add something new, it’s very easy to do so. Also tracks macros, has lots of recipes for free.\"",
+      "name": "Ed Mercer"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I have tried other websites to track my eating habits and always gave up because they were too time consuming and never seemed very accurate. This website is so easy and gives so much helpful information!\"",
+      "name": "Katherine Pierce"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Excellent website. Of all the websites I have tried, this is one of the best. Simple to use, speed of entry, searching, charting, favorites and recipe creation capabilities are only a few of the outstanding features. You won't be disappointed. It is difficult to lose weight if you do not document it. This program does it all for me.\"",
+      "name": "Jake Peralta"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"I was so tired of MyFitnessPal. This website does all that MyFitnessPal does and more. The premium cost is also less … something that I can afford! I love the pictures of the food. I love the nutrient screen. I love the daily tips. I’m SO happy with this website!\"",
+      "name": "Hope Mikaelson"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Everything in one place. I love this website for counting calories, logging exercise, browsing forums, it has it all. Thank you. I believe this is the most comprehensive and not overwhelming website I have used for fitness. Bravo!\"",
+      "name": "Will Robinson"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"I have lost 52 lbs in 4.5 months since using the website and 20 lbs in the 24 months before using CaloriePal. Most of that was finding motivation, but the app helped keep me on track. Here are the best parts: - entering food is easy: it remembers custom foods, which foods you often eat for which meals, and imports recipes from websites (huge plus!) - its engaging, not annoying: gentle prompts to log meals, the different graphs and reports on weight, nutritional goals, etc etc.\"",
+      "name": "Cordelia Goode"
+    }
+  ],
+  "Contact": {
+    "address": "34 Union Terrace, London, E14 1WU ",
+    "phone": "+1 123 456 1234",
+    "email": "CaloriePal@gmail.com",
+    "facebook": "https://www.facebook.com/profile.php?id=100076717226479",
+    "twitter": "https://twitter.com/CaloriePal",
+    "youtube": "https://www.youtube.com/channel/UCW61TrvtAQ1bsrh7zoINaAw"
+  }
+}

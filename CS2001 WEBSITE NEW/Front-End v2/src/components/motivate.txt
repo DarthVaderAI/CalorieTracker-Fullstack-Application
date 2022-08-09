@@ -1,0 +1,39 @@
+// I have created a similar code to the motivation picture, but this time it allows the user to click a 
+//button everytime they want a new picture. Feel free to use it as a component /jsx if you like it.
+
+
+import { useState } from 'react'
+  export const Motivate = (props)=> 
+   
+  {   
+    const url_ar= ['https://media1.popsugar-assets.com/files/thumbor/Lo4MuDQscEznKajWhHTliRFLx9k/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2017/11/10/736/n/1922729/ba5b788c5a05d68ed93342.81157167_edit_img_cover_file_44242623_1510275897/i/Inspirational-Fitness-Quotes.jpg', 'https://i2.wp.com/posthood.com/wp-content/uploads/2019/07/Lets-Go-fitness-quotes.jpg '] 
+
+    
+    let initialState = url_ar[Math.floor(Math.random() * url_ar.length)]
+    const [ url_motivate_img, setState] = useState(initialState)
+    const clearState = () => setState(initialState )
+ 
+const ddd=()=>{
+    console.log(url_motivate_img)
+    initialState = url_ar[Math.floor(Math.random() * url_ar.length)]
+    clearState()
+    console.log(url_motivate_img)
+}
+  
+      
+     
+
+
+
+    return(
+        <div> 
+                <button onClick={ddd} className='btn btn-custom btn-lg'>
+                  motivate
+                </button>
+            <img src={url_motivate_img} />
+        </div>
+
+    );
+ }
+
+

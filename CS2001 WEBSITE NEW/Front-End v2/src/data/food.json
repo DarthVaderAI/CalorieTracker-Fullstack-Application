@@ -1,0 +1,30 @@
+{
+  "breakfast": [
+    {"name": "honey", "value": 100, "img": "/img/calories/fengmi.jpg"},
+    {"name": "steamed bun", "value": 200, "img": "/img/calories/mantao.jpg"},
+    {"name": "apple", "value": 300, "img": "/img/calories/pingguo.jpg"},
+    {"name": "milk", "value": 400, "img": "/img/calories/niunai.jpg"},
+    {"name": "orange", "value": 100, "img": "/img/calories/chengzi.jpg"},
+    {"name": "meat", "value": 300, "img": "/img/calories/shourou.jpg"},
+    {"name": "cucumber", "value": 500, "img": "/img/calories/huanggua.jpg"},
+    {"name": "banana", "value": 500, "img": "/img/calories/xiangjiao.jpg"}
+  ],
+
+  "lunch": [
+    {"name": "orange", "value": 100, "img": "/img/calories/chengzi.jpg"},
+    {"name": "Chinese Cabbge", "value": 200, "img": "/img/calories/dabaicai.jpg"},
+    {"name": "tomato", "value": 300, "img": "/img/calories/fangqie.jpg"},
+    {"name": "big apple", "value": 400, "img": "/img/calories/honfushi.jpg"},
+    {"name": "cucumber", "value": 500, "img": "/img/calories/huanggua.jpg"},
+    {"name": "banana", "value": 500, "img": "/img/calories/xiangjiao.jpg"}
+  ],
+
+  "dinner": [
+    {"name": "rice", "value": 100, "img": "/img/calories/mifang.jpg"},
+    {"name": "vegetable", "value": 200, "img": "/img/calories/shanhaiqing.jpg"},
+    {"name": "meat", "value": 300, "img": "/img/calories/shourou.jpg"},
+    {"name": "pakchoi", "value": 400, "img": "/img/calories/xiaobaicai.jpg"},
+    {"name": "pear", "value": 500, "img": "/img/calories/li.jpg"},
+    {"name": "big apple", "value": 400, "img": "/img/calories/honfushi.jpg"}
+  ]
+}

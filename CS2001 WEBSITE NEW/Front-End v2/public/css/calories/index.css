@@ -1,0 +1,54 @@
+.food-body{
+    margin: 100px;
+}
+.food-div{
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 13px;
+    height: 45px;
+}
+.food-img-margin-left{
+    margin-left: 10px;
+}
+
+.food-float-left{
+    float: left;
+}
+.food-float-right{
+    float: right;
+}
+
+.food-add{
+    height: 45px;
+    margin: 4px 10px;
+}
+.food-title{
+    font-weight: bold;
+    font-size: medium;
+}
+
+.food-height-60{
+    height: 60px;
+}
+
+.food-center{
+    text-align: center;
+}
+.food-margin-top{
+    margin-top: 40px;
+}
+.food-white-space{
+    white-space:pre
+}
+
+.food-email-center-vertically{
+    height: 35px;
+    line-height: 35px;
+}
+
+.food-email-submit{
+margin-left: 10px;
+}
+
+
+

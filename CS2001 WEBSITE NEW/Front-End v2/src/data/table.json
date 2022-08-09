@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "date": "24-01-2022",
+        "chest": 120.2,
+        "arms": 45.4,
+        "waist": 73.1,
+        "hips": 74.9,
+        "thighs": 64.4,
+        "calfs": 42.4,
+        "weight": 70,
+        "notes": "Ate healthy. Worked out nicely."
+    },
+    {
+        "id": 2,
+        "date": "06-02-2022",
+        "chest": 116,
+        "arms": 42.3,
+        "waist": 69.6,
+        "hips": 70.1,
+        "thighs": 59.8,
+        "calfs": 38.3,
+        "weight": 75,
+        "notes": "Got lazy. Worked out twice since last measurements, and healthy eating slowly stopped."
+    },
+    {
+        "id": 3,
+        "date": "11-03-2022",
+        "chest": 137.1,
+        "arms": 46.9,
+        "waist": 76.2,
+        "hips": 82.4,
+        "thighs": 68.5,
+        "calfs": 46.9,
+        "weight": 72,
+        "notes": "Been eating very healthy. Been exercising daily."
+    }
+]
